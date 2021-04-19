@@ -1,2 +1,2 @@
-# Imersao Dev Mentalista
+# Imersão Dev Mentalista
 Adivinha o número secreto... 
