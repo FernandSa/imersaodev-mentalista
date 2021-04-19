@@ -1,2 +1,2 @@
-# imersaodev-mentalista
+# Imersao Dev Mentalista
 Adivinha o número secreto... 
